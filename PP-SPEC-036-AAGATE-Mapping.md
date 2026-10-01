@@ -5,7 +5,7 @@
 | Status | DRAFT v0.1 |
 | Author | Craig Ellrod, Nebulonium, Inc. (dba HACKERverse®) |
 | Date | October 1, 2026 |
-| License | CC BY-ND 4.0 |
+| License | CC BY 4.0 |
 | Maps to | AAGATE |
 | Series | Proof Protocol Framework Mapping Specifications |
 
@@ -107,7 +107,7 @@ No affiliation, endorsement, certification, or sponsorship by AAGATE's maintaine
 
 AAGATE is an external framework/project. Its source materials retain their original ownership and licensing. The AAGATE code/materials identified for this mapping are distributed under the **MIT License** where that upstream license applies.
 
-This Proof Protocol mapping is independently authored and licensed under **CC BY-ND 4.0**. It references upstream concepts for interoperability and does not relicense AAGATE material.
+This Proof Protocol mapping is independently authored and licensed under **CC BY 4.0**. It references upstream concepts for interoperability and does not relicense AAGATE material.
 
 Framework names and trademarks remain the property of their respective owners.
 
@@ -117,4 +117,4 @@ This mapping is versioned independently of AAGATE. A material upstream change SH
 
 ---
 
-*Proof Protocol · proofprotocol.io · CC BY-ND 4.0*
+*Proof Protocol · proofprotocol.io · CC BY 4.0*
