@@ -107,7 +107,7 @@ No affiliation, endorsement, certification, or sponsorship by AAGATE's maintaine
 
 AAGATE is an external framework/project. Its source materials retain their original ownership and licensing. The AAGATE code/materials identified for this mapping are distributed under the **MIT License** where that upstream license applies.
 
-This Proof Protocol mapping is independently authored and licensed under **CC BY 4.0**. It references upstream concepts for interoperability and does not relicense AAGATE material.
+This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 Framework names and trademarks remain the property of their respective owners.
 
